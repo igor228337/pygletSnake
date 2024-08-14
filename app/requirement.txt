@@ -1,0 +1,17 @@
+certifi==2024.7.4
+charset-normalizer==3.3.2
+colorama==0.4.6
+comtypes==1.4.6
+idna==3.7
+loguru==0.7.2
+PyAudio==0.2.14
+pyglet==2.0.16
+pypiwin32==223
+pyttsx3==2.90
+pywin32==306
+requests==2.32.3
+setuptools==72.1.0
+SpeechRecognition==3.10.4
+typing_extensions==4.12.2
+urllib3==2.2.2
+win32-setctime==1.1.0
